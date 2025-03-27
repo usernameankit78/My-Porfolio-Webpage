@@ -1,14 +1,13 @@
-COMPANY : CODTECH IT SOLUTIONS
+COMPANY : ELITE TECH INTERN
 
 NAME : ANKIT RAJPOOT
 
-INTERN ID : CT08UJW
+ETI-AO : 10004095208
 
 DOMAIN : FRONT END DEVELOPMENT
 
 DURATION : 4 WEEKS
 
-MENTOR : NEELA SANTOSH
 
 DESCRIPTION : A Personal Portfolio Webpage is a dedicated website that represents an individual's professional identity, showcasing their skills, achievements, and work experience. It serves as an online resume and a digital presence, allowing potential employers, clients, or collaborators to learn more about the person’s expertise and background. A well-designed portfolio website enhances credibility and helps professionals stand out in a competitive job market.
 
